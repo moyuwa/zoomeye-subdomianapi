@@ -5,19 +5,19 @@
 
 第一次执行会要求输入apikey，保存在当前用户appdata路径下
 
-![inputapikey](.\inputapikey.png)
+![inputapikey](inputapikey.png)
 
 目前只支持子域名查询（关联域名查询不支持），查询结果自动保存到csv文件，命名：[域名]-[类型]-[总数].csv
 
-![search1](.\search1.png)
+![search1](search1.png)
 
 批量查询
 
-![list](.\list.png)
+![list](list.png)
 
 导出结果样式，与zoomeye web界面导出的txt类似
 
-![csv](.\csv.png)
+![csv](csv.png)
 
 后续更新：
 

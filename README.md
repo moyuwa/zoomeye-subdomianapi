@@ -7,7 +7,7 @@
     [2] python3 py3zoomeye_subdomainapi.py -l domains.txt  #批量域名查询
     [3] python3 py3zoomeye_subdomainapi.py -t 0 -d baidu.com    #查询指定类型
 
-第一次执行会要求输入apikey，windows保存在当前用户appdata路径下，linux保存在当前用户目录下
+第一次执行会要求输入apikey，windows保存在当前用户appdata路径下，linux保存在当前用户目录下，macos系统自行修改源码里的系统判断条件（没钱买本，测试不了）
 
 ![inputapikey](inputapikey.png)
 

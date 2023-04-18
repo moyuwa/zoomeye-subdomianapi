@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # coding=utf-8
 # python version 3.7 by 6time
-# zoomeye api查询子域名
+# zoomeye api查询子域名 gittest
 
 import os, requests, json
 import argparse
